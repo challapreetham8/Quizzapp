@@ -1,7 +1,7 @@
-import ProgressTracker from './components/ProgressTracker'
-import TaskForm from './components/TaskForm'
+import ProgressTracker from './ProgressTracker'
+import TaskForm from './TaskForm'
 import React, { useEffect } from 'react'
-import TaskList from './components/TaskList'
+import TaskList from './TaskList'
 import {useState} from 'react'
 import './style.css'
 
